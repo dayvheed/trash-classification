@@ -17,6 +17,7 @@ It contains 6 classes: clardboard, glass, metal, paper, plastic, and trash.
 3. CNN + SVC had an accuracy of 75.87% 
 
 **Discussion**
+
 Interestingly, the CNN + SVC produced better results. This goes to show that sometimes, classical methods can produce good results that NN. 
 They get really powerful when they are combined with a NN to serve as an inital  feature extractor. 
 It was observed that the models generally classified glass as plastic. The confusion could be explained as the images of plastic and glass are closely alike. 
